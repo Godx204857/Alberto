@@ -5,7 +5,7 @@ while(dividendo <= 0 or divisor <= 0):
     dividendo = int(input("Digite el dividendo: "))
     divisor = int(input("Digite el divisor: "))
 
-    if(dividendo <= 0 or divisor <=0):
+    if(dividendo <= 0 or divisor <= 0):
         print("Error. Solo positivos.")
 
 cociente = 0
